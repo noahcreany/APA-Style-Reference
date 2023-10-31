@@ -7,8 +7,8 @@
 | ANCOVA                 | analysis of covariance                                                                                                                                                       |
 | ANOVA                  | analysis of variance                                                                                                                                                         |
 | AVE                    | average value explained                                                                                                                                                      |
-| $b, b_{i}$             | in regression and multiple regression analyses, estimated values of raw (unstandardized) regression coefficients; in item response theory, the difficulty-severity parameter |
-| $b^{*}, b_{i}$         | estimated values of standardized regression coefficients in regression and multiple regression analyses                                                                      |
+| b, b<sub>i</sub>       | in regression and multiple regression analyses, estimated values of raw (unstandardized) regression coefficients; in item response theory, the difficulty-severity parameter |
+| b<sub>$\ast$</sub>, b<sub>i</sub><sup>$\ast$</sup>        | estimated values of standardized regression coefficients in regression and multiple regression analyses                                                                      |
 | BC, aBIC               | Bayesian information criterion, sample-size-adjusted Bayesian information criterion                                                                                          |
 | CAT                    | computerized adaptive testing                                                                                                                                                |
 | CDF                    | cumulative distribution function                                                                                                                                             |
@@ -23,12 +23,12 @@
 | EM                     | expectation maximization                                                                                                                                                     |
 | ES                     | effect size                                                                                                                                                                  |
 | _f_                    | frequency                                                                                                                                                                    |
-| _f_$_{e}$              | expected frequency                                                                                                                                                           |
-| _f_$_{o}$              | observed frequency                                                                                                                                                           |
+| _f_<sub>e</sub>        | expected frequency                                                                                                                                                           |
+| _f_<sub>o</sub>        | observed frequency                                                                                                                                                           |
 | F                      | F distribution; Fisher's F ratio                                                                                                                                             |
 | F($v_{1},v_{2}$)       | F with $v_{1}$ and $v_{2}$ degrees of freedom                                                                                                                                |
-| _F_$_{crit}$           | critical value for statistical significance in an F test                                                                                                                     |
-| _F_$_{max}$            | Hartley's test of homogeneity of variance                                                                                                                                    |
+| _F_<sub>crit</sub>     | critical value for statistical significance in an F test                                                                                                                     |
+| _F_<sub>max</sub>     | Hartley's test of homogeneity of variance                                                                                                                                    |
 | FDR                    | false discovery rate                                                                                                                                                         |
 | FIML                   | full information maximum likelihood                                                                                                                                          |
 | g                      | Hedges's measure of effect size                                                                                                                                              |
@@ -36,12 +36,12 @@
 | GLM                    | generalized linear model                                                                                                                                                     |
 | GLS                    | generalized least squares                                                                                                                                                    |
 | _H_$_{0}$              | null hypothesis, hypothesis under test                                                                                                                                       |
-| _H_$_{1} (or _H_$_{a}$)| alternative hypothesis                                                                                                                                                       |
+| H<sub>1</sub> or H<sub>a</sub>  | alternative hypothesis                                                                                                                                                       |
 | HLM                    | hierarchical linear model(ing)                                                                                                                                               |
 | HSD                    | Tukey's honestly significant   difference                                                                                                                                    |
 | IRT                    | item response theory                                                                                                                                                         |
 | k                      | coefficient of alienation; number os studies in a meta-analysis; number of levels in an experimental design or individual study                                              |
-| $k^{2}$                | coefficient of nondetermination                                                                                                                                              |
+| k<sup>2</sup>          | coefficient of nondetermination                                                                                                                                              |
 | KR20                   | Kuder—Richardson reliability index                                                                                                                                           |
 | LGC                    | latent growth curve                                                                                                                                                          |
 | LL                     | lower limit (as of a Cl)                                                                                                                                                     |
@@ -63,24 +63,24 @@
 | OLS                    | ordinary least s uares                                                                                                                                                       |
 | OR                     | odds ratio                                                                                                                                                                   |
 | p                      | probability; probability of a success in a binary trial                                                                                                                      |
-| $p_{rep}$              | probability a replication would give a result with the same sign as the original result                                                                                      |
+| p<sub>rep</sub>        | probability a replication would give a result with the same sign as the original result                                                                                      |
 | PDF                    | probability density function                                                                                                                                                 |
 | q                      | probability of a failure in a binary trial; 1-p                                                                                                                              |
 | Q                      | test of homogeneity of effect sizes                                                                                                                                          |
 | r                      | estimate of the Pearson product—moment correlation coefficient                                                                                                               |
-| $r_{ab.c}$             | partial correlation of a and b with the effect of c removed                                                                                                                  |
-| $r_{a(b.c)}$           | partial (or semipartial) correlation of a and b with the effect of c removed from b                                                                                          |
-| $r^{2}$                | coefficient of determination; measure of strength of relationship; estimate of the Pearson product-moment correlation squared                                                |
-| $r_{b}$                | biserial correlation                                                                                                                                                         |
-| $r_{pb}$               | point biserial correlation                                                                                                                                                   |
-| $r_{s}$                | Spearman rank-order correlation                                                                                                                                              |
+| r<sub>ab.c</sub>       | partial correlation of a and b with the effect of c removed                                                                                                                  |
+| r<sub>a(b.c)</sub>     | partial (or semipartial) correlation of a and b with the effect of c removed from b                                                                                          |
+| r<sub>2</sub>          | coefficient of determination; measure of strength of relationship; estimate of the Pearson product-moment correlation squared                                                |
+| r<sub>b</sub>          | biserial correlation                                                                                                                                                         |
+| r<sub>pb</sub>         | point biserial correlation                                                                                                                                                   |
+| r<sub>s</sub>          | Spearman rank-order correlation                                                                                                                                              |
 | R                      | multiple correlation                                                                                                                                                         |
-| $R^{2}$                | multiple correlation squared; measure of strength of association                                                                                                             |
+| R<sup>2</sup>          | multiple correlation squared; measure of strength of association                                                                                                             |
 | RMSEA                  | root-mean-square error of approximation                                                                                                                                      |
 | s                      | sample standard deviation (denominator $\sqrt{n-1}$                                                                                                                          |
 | **S**                  | sample variance—covariance matrix                                                                                                                                            |
-| $s^{2}$                | sample variance (unbiased estimator) — denominator n — 1                                                                                                                     |
-| $S^{2}$                | sample variance (unbiased estimator) — denominator n                                                                                                                         |
+| s<sup>2</sup>          | sample variance (unbiased estimator) — denominator n — 1                                                                                                                     |
+| S<sup>2</sup>          | sample variance (unbiased estimator) — denominator n                                                                                                                         |
 | SD                     | standard deviation                                                                                                                                                           |
 | SE                     | standard error                                                                                                                                                               |
 | SEM                    | standard error of measurement; standard error of the mean                                                                                                                    |
@@ -88,14 +88,14 @@
 | SRMR                   | standardized root-mean-square residual                                                                                                                                       |
 | SS                     | sum of squares                                                                                                                                                               |
 | _t_                    | Student's t distribution; a   statistical test based on the Student t distribution; the sample value of the t-test statistic                                                 |
-| $T^{2}$                | Hotelling's multivariate test for the   equality of the mean vector in two multivariate populations                                                                          |
-| $T_{k}$                | generic effect-size estimate                                                                                                                                                 |
+| T<sup>2</sup>          | Hotelling's multivariate test for the   equality of the mean vector in two multivariate populations                                                                          |
+| T<sub>k</sub>          | generic effect-size estimate                                                                                                                                                 |
 | TLI                    | Tucker—Lewis index                                                                                                                                                           |
 | U                      | Mann—Whitney test statistic                                                                                                                                                  |
 | UL                     | upper limit (as of a Cl)                                                                                                                                                     |
 | V                      | Pillai—Barlett multivariate trace criterion; Cramér's measure of association in contingency tables                                                                           |
-| $W_{k}$                | fixed-effects weights                                                                                                                                                        |
-| $W_{k*}$               | random-effects weights                                                                                                                                                       |
+| W<sub>k</sub>          | fixed-effects weights                                                                                                                                                        |
+| W<sub>k*</sub>         | random-effects weights                                                                                                                                                       |
 | W                      | Kendall's coefficient of concordance and its estimate                                                                                                                        |
 | WCS                    | weighted least squares                                                                                                                                                       |
 | z                      | a standardized score; the value of a statistic divided by its standard error                                                                                                 |
