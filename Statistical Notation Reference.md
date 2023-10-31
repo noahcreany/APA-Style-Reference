@@ -23,8 +23,8 @@
 | EM                     | expectation maximization                                                                                                                                                     |
 | ES                     | effect size                                                                                                                                                                  |
 | _f_                    | frequency                                                                                                                                                                    |
-| $f_{e}$                | expected frequency                                                                                                                                                           |
-| $f_{o}$                | observed frequency                                                                                                                                                           |
+| _f_${e}$               | expected frequency                                                                                                                                                           |
+| _f$_{o}$               | observed frequency                                                                                                                                                           |
 | F                      | F distribution; Fisher's F ratio                                                                                                                                             |
 | F($v_{1},v_{2}$)       | F with $v_{1}$ and $v_{2}$ degrees of freedom                                                                                                                                |
 | $F_{crit}$             | critical value for statistical significance in an F test                                                                                                                     |
