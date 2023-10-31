@@ -22,7 +22,7 @@
 | EFA                    | exploratory factor analysis                                                                                                                                                  |
 | EM                     | expectation maximization                                                                                                                                                     |
 | ES                     | effect size                                                                                                                                                                  |
-| $f$                    | frequency                                                                                                                                                                    |
+| _f_                    | frequency                                                                                                                                                                    |
 | $f_{e}$                | expected frequency                                                                                                                                                           |
 | $f_{o}$                | observed frequency                                                                                                                                                           |
 | F                      | F distribution; Fisher's F ratio                                                                                                                                             |
