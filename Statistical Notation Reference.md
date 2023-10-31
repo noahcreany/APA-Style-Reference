@@ -23,20 +23,20 @@
 | EM                     | expectation maximization                                                                                                                                                     |
 | ES                     | effect size                                                                                                                                                                  |
 | _f_                    | frequency                                                                                                                                                                    |
-| _f_${e}$               | expected frequency                                                                                                                                                           |
-| _f$_{o}$               | observed frequency                                                                                                                                                           |
+| _f_$_{e}$              | expected frequency                                                                                                                                                           |
+| _f_$_{o}$              | observed frequency                                                                                                                                                           |
 | F                      | F distribution; Fisher's F ratio                                                                                                                                             |
 | F($v_{1},v_{2}$)       | F with $v_{1}$ and $v_{2}$ degrees of freedom                                                                                                                                |
-| $F_{crit}$             | critical value for statistical significance in an F test                                                                                                                     |
-| $F_{max}$              | Hartley's test of homogeneity of variance                                                                                                                                    |
+| _F_$_{crit}$           | critical value for statistical significance in an F test                                                                                                                     |
+| _F_$_{max}$            | Hartley's test of homogeneity of variance                                                                                                                                    |
 | FDR                    | false discovery rate                                                                                                                                                         |
 | FIML                   | full information maximum likelihood                                                                                                                                          |
 | g                      | Hedges's measure of effect size                                                                                                                                              |
 | GFI                    | goodness-of-fit index                                                                                                                                                        |
 | GLM                    | generalized linear model                                                                                                                                                     |
 | GLS                    | generalized least squares                                                                                                                                                    |
-| $H_{0}$                | null hypothesis, hypothesis under test                                                                                                                                       |
-| $H_{1}$ (or $H_{a}$)   | alternative hypothesis                                                                                                                                                       |
+| _H_$_{0}$              | null hypothesis, hypothesis under test                                                                                                                                       |
+| _H_$_{1} (or _H_$_{a}$)| alternative hypothesis                                                                                                                                                       |
 | HLM                    | hierarchical linear model(ing)                                                                                                                                               |
 | HSD                    | Tukey's honestly significant   difference                                                                                                                                    |
 | IRT                    | item response theory                                                                                                                                                         |
