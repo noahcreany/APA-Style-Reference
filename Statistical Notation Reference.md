@@ -1,4 +1,4 @@
-# Statistical Abbreviations and Symbols
+# APA7 Statistical Notation, Abbreviations, and Symbols
 
 | Abbreviation or symbol | Descriptor                                                                                                                                                                   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -100,7 +100,7 @@
 | WCS                    | weighted least squares                                                                                                                                                       |
 | z                      | a standardized score; the value of a statistic divided by its standard error                                                                                                 |
 
-# Greek Character Set
+# APA7 Greek Character Set
 | Abbreviation or symbol           	| Definition                                                                                                                                                                                                       	|
 |----------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | $\alpha$ (alpha)                 	| in statistical hypothesis testing, the probability of making a Type Cronbach's index of internal consistency (a form of reliability)                                                                             	|
