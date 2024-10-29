@@ -1,7 +1,7 @@
 # APA7 Statistical Notation, Abbreviations, and Symbols
 
 | Abbreviation or symbol | Descriptor                                                                                                                                                                   |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | a                      | In item response theory, the slope parameter                                                                                                                                 |
 | AIC                    | Akaike information criterion                                                                                                                                                 |
 | ANCOVA                 | analysis of covariance                                                                                                                                                       |
@@ -102,7 +102,7 @@
 
 # APA7 Greek Character Set
 | Abbreviation or symbol           	| Definition                                                                                                                                                                                                       	|
-|----------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+|:---------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | $\alpha$ (alpha)                 	| in statistical hypothesis testing, the probability of making a Type Cronbach's index of internal consistency (a form of reliability)                                                                             	|
 | $\beta$ (beta)                   	| in statistical hypothesis testing, the   probability of making a Type 11 error (1 — $\beta$ denotes statistical power);   population values of regression coefficients (with approriate subscripts as needed) 	|
 | B (capital beta)                 	| in SEM, matrix of regression   coefficients among dependent constructs                                                                                                                                           	|
